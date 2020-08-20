@@ -1,0 +1,19 @@
+{
+  "name": "xurizaemon/example",
+  "type": "package",
+  "description": "example composer for drupol/php-conventions#1",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Chris Burgess",
+      "email": "xurizaemon@example.org"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "drupal/coder": "^8.2",
+    "drupol/drupal-conventions": "^1.7",
+    "phpro/grumphp": "^0.17",
+    "squizlabs/php_codesniffer": "^3.5"
+  }
+}
